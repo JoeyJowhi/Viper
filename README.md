@@ -1,5 +1,5 @@
 # Viper
-A collection of my personal (mainly Python) projects I like to tinker with on my downtime.
+A collection of my personal (mainly Python) projects I like to tinker with on my downtime. wesfsdfsdf
 
 ## Viperan
 This is a small text-based RPG style game I began working on last month.
